@@ -22,7 +22,7 @@ enlaces.addEventListener("click", function () {
   menuResponsive.classList.remove("active");
 });
 
-//Silider de productos
+//Slider de productos
 
 var contenedor = document.querySelector(".slider"),
   btnIzquierdo = document.getElementById("btn-izquierda"),
