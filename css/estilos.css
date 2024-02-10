@@ -398,7 +398,7 @@ body {
 }
 
 .persona-info {
-  position: absolute;
+  position: relative;
   bottom: 10px;
   width: 100%;
   text-align: center;
